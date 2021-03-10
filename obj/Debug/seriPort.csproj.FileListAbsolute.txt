@@ -1,0 +1,10 @@
+C:\Users\yeni\Desktop\aForge\seriPort\bin\Debug\seriPort.exe.config
+C:\Users\yeni\Desktop\aForge\seriPort\bin\Debug\seriPort.exe
+C:\Users\yeni\Desktop\aForge\seriPort\bin\Debug\seriPort.pdb
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.csprojAssemblyReference.cache
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.Form1.resources
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.Properties.Resources.resources
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.csproj.GenerateResource.cache
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.csproj.CoreCompileInputs.cache
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.exe
+C:\Users\yeni\Desktop\aForge\seriPort\obj\Debug\seriPort.pdb
